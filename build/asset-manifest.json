@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mangamenu/static/css/main.a813677f.css",
+    "main.js": "/mangamenu/static/js/main.af7dc4fd.js",
+    "index.html": "/mangamenu/index.html",
+    "main.a813677f.css.map": "/mangamenu/static/css/main.a813677f.css.map",
+    "main.af7dc4fd.js.map": "/mangamenu/static/js/main.af7dc4fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a813677f.css",
+    "static/js/main.af7dc4fd.js"
+  ]
+}
